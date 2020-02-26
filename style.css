@@ -1,0 +1,76 @@
+body {
+  background-color: #116466;
+  color: black;
+  font-family: monospace;
+  font-size: 20px;
+}
+p {
+  color: #D9B08C;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  text-align: left;
+}
+h1 {
+  font-weight: bold;
+  font-family:monospace;
+  font-size: 35px;
+  text-align: center;
+  color: #2C3531;
+  border: 7px #D1E8E2 groove;
+    background-color: darkcyan;
+}
+h3 {
+    font-size: 20px;
+    font-family: Blippo, fantasy;
+    text-align: center;
+    color: white;
+}
+.tom {
+    border: 5px green double;
+}
+.list {
+    font-family: fantasy;
+    color: black;
+}
+.caption {
+    color:#D9B08C;
+    font-style: italic;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+h2 {
+    color:#2C3531
+}
+.images {
+    border: 3px ghostwhite dashed;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.list {
+    color: #D9B08C;
+  font-family: fantasy;
+  font-size: 20px;
+  text-align: left;
+}
+.Index {
+  font-weight: bold;
+  font-family:monospace;
+  font-size: 70px;
+  text-align: center;
+  color: #2C3531;
+  border: 10px #D1E8E2 groove;
+    background-color: darkcyan;
+}
+.artifact {
+    font-size: 50px;
+    color:#2C3531;
+    text-align: center;  
+}
+.para {
+  color: #D9B08C;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  text-align: center;
+}
