@@ -10,6 +10,12 @@ p {
   font-size: 25px;
   text-align: left;
 }
+list {
+  color: #D9B08C;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  text-align: left;
+}
 h1 {
   font-weight: bold;
   font-family:monospace;
